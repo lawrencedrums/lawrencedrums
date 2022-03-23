@@ -4,7 +4,8 @@
 
 - Born in Hong Kong, currently studying in Bath, UK
 - Started as a self-taught developer with [CS50](https://github.com/lawrencedrums/CS50x), and the [final project](https://github.com/lawrencedrums/lawrencedrums.github.io)
-- Actively looking for my first software engineering role!
+- Wrote my personal website [Lwrc.io](https://lwrc.io) entirely self-taught!
+- Actively looking for my first software engineering role
 
 Languages and Tools:
 
